@@ -11,7 +11,7 @@ setup(
   author = 'Niraj Munot',                   
   author_email = 'nirajmunot28@gmail.com',      
   url = 'https://github.com/MaticAlgos',   
-  download_url = 'https://github.com/MaticAlgos/liveupstoxoc/archive/refs/tags/0.1.tar.gz',    
+  download_url = 'https://github.com/MaticAlgos/liveupstoxoc/archive/refs/tags/0.1.2.tar.gz',    
   keywords = ['upstox', 'optionschain', 'liveoptionschain', "NSE", "openinterest"],   
   install_requires=[            
           'selenium',
