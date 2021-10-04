@@ -16,9 +16,7 @@ setup(
   install_requires=[            
           'selenium',
           'beautifulsoup4',
-          "time",
-          "pandas",
-          "json"
+          "pandas"
           
       ],
   classifiers=[
