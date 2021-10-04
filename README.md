@@ -5,7 +5,7 @@ Pypi : https://pypi.org/project/liveupstoxoc/
 
 ## Installation
 
-Make sure you've installed chromedriver as per your systen. 
+Make sure you've installed chromedriver as per your system. 
 If not, use this link to download chromedrivers https://chromedriver.storage.googleapis.com/index.html?path=95.0.4638.17/
 
 
