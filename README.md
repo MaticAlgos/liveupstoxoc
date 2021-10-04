@@ -1,6 +1,7 @@
 # liveupstoxoc
 ## Fetch live OptionsChain from Upstox for free
 
+Pypi : https://pypi.org/project/liveupstoxoc/
 
 ## Installation
 
