@@ -17,6 +17,7 @@ pip install liveupstoxoc
 ## How to use the library
 
 ```sh
+from liveupstoxoc import live_upstox_oc
 n = live_upstox_oc.upstox_oc(path to chromedriver)
 #Now enter login details of your upstox account
 n.login(username, password, 2fa)
